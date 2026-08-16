@@ -16,3 +16,5 @@
 // var a = 10;
 // console.log(a);
 
+var name=prompt("enter your name here")
+console.log(name);
